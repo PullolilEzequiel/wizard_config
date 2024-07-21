@@ -1,0 +1,25 @@
+import = [
+    "~/.config/alacritty/themes/ayu_dark.toml"
+]
+[env] 
+term = "xterm-256color"
+tabspaces="2"
+[window]
+padding = {x=3, y=3}
+position = { x = 300, y=100}
+dynamic_padding = true
+[font]
+size = 14
+normal = { family = "Source Code Pro", style = "Regular"}
+bold = { family = "Source Code Pro", style = "Bold"}
+italic = { family = "Source Code Pro", style = "Italic"}
+bold_italic = { family = "Source Code Pro", style = "Bold Italic"}
+
+
+[mouse]
+bindings = [
+	{ mouse= "Middle", action= "PasteSelection" }
+]
+
+[shell]
+program = "/bin/zsh"
