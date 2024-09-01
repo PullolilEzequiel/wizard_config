@@ -1,0 +1,13 @@
+{
+	"Repository_url": "https://github.com/PullolilEzequiel/wizard_config",
+	"Configs_to_persist": [
+		"/home/ezequiel/.config/wofi",
+		"/home/ezequiel/.config/term_configs",
+		"/home/ezequiel/.config/alacritty",
+		"/home/ezequiel/.oh-my-zsh/themes/headline.zsh-theme",
+		"/home/ezequiel/.zshrc",
+		"/home/ezequiel/.config/wezterm",
+		"/home/ezequiel/.config/pie_gnome.json",
+		"/home/ezequiel/.config/pie_icons"
+	]
+}
